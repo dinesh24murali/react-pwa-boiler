@@ -1,0 +1,10 @@
+.serverless
+dist/
+node_modules/
+./node_modules
+.env
+.*env
+.env*
+.git/
+.DS_Store
+coverage/
